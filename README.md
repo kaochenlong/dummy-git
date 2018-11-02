@@ -2,4 +2,4 @@
 
 eddie@5xruby.tw
 
-GOOD123
+GOOD
