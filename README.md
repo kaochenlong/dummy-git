@@ -1,8 +1,8 @@
-# Dummy Git practicing material
+# 修改成功
 
-eddie@5xruby.tw
+as55518010@yahoo.com.tw
 
 GOOD
 
 
-Hello My name is Ray.
+Hello My name is Derrick.
