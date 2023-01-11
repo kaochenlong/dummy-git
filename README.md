@@ -1,4 +1,8 @@
 # Dummy Git practicing material
 
-eddie@5xruby.tw
-111222333
+eddie@5xcampus.com
+
+Hello Git
+
+
+dgfsfdgdsgfgfgffd
