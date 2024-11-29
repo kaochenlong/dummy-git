@@ -11,3 +11,7 @@ public class GitHubHelloWorld {
 		
 	}
 }
+
+
+
+print("龍哥是最棒的")
