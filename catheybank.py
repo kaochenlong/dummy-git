@@ -1,4 +1,4 @@
-print("hell world")
+print("hello world")
 
 a = 3.14
 r = 2
