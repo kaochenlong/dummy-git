@@ -1,7 +1,7 @@
 print("hello world")
 
-a = 3.14
-r = 2
+PI = 3.14
+radius = 2
 
-area = a * (r * r)
+area = PI * (radius ** 2)
 print(area)
